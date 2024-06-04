@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @callum-whatley
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python, Kubernetes, and Docker
 - 💞️ I’m looking to collaborate on fun and exciting projects
 - 📫 How to reach me https://cwhatley.surge.sh
 
